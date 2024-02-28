@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "tea-info",
+  "version": "1.0.0",
+  "description": "provides all information about tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aveWorld/tea-info.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "fanatic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aveWorld/tea-info/issues"
+  },
+  "homepage": "https://github.com/aveWorld/tea-info#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
